@@ -57,6 +57,7 @@
   <img src="https://img.shields.io/badge/Structures%20non%20lin%C3%A9aires-8E44AD" alt="Structures non linéaires" />
   <img src="https://img.shields.io/badge/Composites-D35400" alt="Composites" />
   <img src="https://img.shields.io/badge/Thermique%20spatial-2C3E50" alt="Thermique spatial" />
+  <img src="https://img.shields.io/badge/Thermique%20spatial-2C3E50" alt="FEA" />
 </p>
 
 ***
