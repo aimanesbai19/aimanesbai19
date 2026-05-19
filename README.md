@@ -3,7 +3,6 @@
 
 Étudiant en Master Modélisation et Simulation en Mécanique et Energétique (MSME) à l'Université de Toulouse, je suis un passionné de mécanique des fluides (CFD) et de simulation numérique. Curieux et autonome, j'aime résoudre des problématiques complexes en combinant ingénierie mécanique et outils informatiques.
 
-Je suis actuellement à la recherche d'une **alternance de 4 à 6 mois** (rythme : 5 semaines de cours / 4 semaines d'entreprise) à partir de la mi-février 2027 pour mon année de Master 2.
 
 ## 🎓 Parcours et Objectifs Académiques
 
