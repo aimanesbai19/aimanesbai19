@@ -31,10 +31,6 @@
     * *Outils : Capella.*
     * Application de la démarche d'ingénierie système sur un vélo électrique, avec définition des exigences fonctionnelles et de l'architecture.
 
-## ⚡ Au-delà du code et de la simulation
-
-Quand je ne suis pas en train de configurer un maillage sur Salome ou d'optimiser un script Python, tu me trouveras probablement avec du PNL, Werenoi ou Hamza dans les oreilles. Je suis aussi un grand amateur d'animes dynamiques comme *Dandadan* ou *Kaiju No. 8*, et je passe pas mal de temps à tryhard sur *Valorant* et *CS2* (mon setup Logitech G Pro X Superlight 2 et G515 aide bien). Je travaille également sur des projets de création de contenu de divertissement (lives, react) avec mon équipe sous le nom de *L’Épicerie 2 Nuit*.
-
 ## 📫 Me contacter
 
 * **Localisation** : Toulouse, France
