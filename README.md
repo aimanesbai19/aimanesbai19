@@ -1,13 +1,14 @@
-# 👋 Aimane Sbai — Étudiant en Modélisation & Simulation Numérique
+# 👋 Aimane Sbai — Student in Numerical Modeling & Simulation
 
-Étudiant en Master Modélisation & Simulation en Mécanique et Énergétique (MSME) à l'Université de Toulouse. Passionné par la résolution de problèmes industriels complexes à l'aide d'outils numériques, avec une forte affinité pour la **Mécanique des Fluides Numérique (CFD)** et le **Calcul de Structures (FEA)**. Curieux et autonome, je me concentre sur l'automatisation via Python, l'assimilation de solveurs avancés et la gestion de projets techniques.
+Master's student in Modeling & Simulation in Mechanics and Energetics (MSME) at the University of Toulouse. Passionate about solving complex industrial problems using numerical tools, with a strong affinity for **Computational Fluid Dynamics (CFD)** and **Finite Element Analysis (FEA)**. Curious and autonomous, I focus on automation via Python, mastering advanced solvers, and technical project management.
 
-🌍 **Mobilité :** Toulouse, France / International 
-💬 **Langues :** Français (Natif), Italien (Natif), Anglais (Niveau B2), Espagnol (Intermédiaire)
+🌍 **Mobility:** Toulouse, France / International 
+
+💬 **Languages:** French (Native), Italian (Native), English (B2 Level), Spanish (Intermediate)
 
 ***
 
-## 🛠️ Langages & Scripting
+## 🛠️ Languages & Scripting
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
@@ -18,12 +19,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" />
 </p>
 
-- **Scripting & Automatisation :** Développement d'algorithmes de calcul en Python, structuration de scripts scientifiques et application des concepts de programmation orientée objet ("clean code").
-- **Analyse de Données :** Exploitation des bibliothèques scientifiques (NumPy, Matplotlib) pour l'analyse de données, les régressions numériques et l'initiation au Machine Learning.
+- **Scripting & Automation:** Development of computational algorithms in Python, structuring scientific scripts, and applying object-oriented programming concepts ("clean code").
+- **Data Analysis:** Leveraging scientific libraries (NumPy, Matplotlib) for data analysis, numerical regressions, and an introduction to Machine Learning.
 
 ***
 
-## 📦 Outils de Simulation & Modélisation
+## 📦 Simulation & Modeling Tools
 <p>
   <img src="https://img.shields.io/badge/OpenFOAM-000000?logo=openfoam&logoColor=white" alt="OpenFOAM" />
   <img src="https://img.shields.io/badge/ParaView-3B9CFF?logo=paraview&logoColor=white" alt="ParaView" />
@@ -32,41 +33,42 @@
   <img src="https://img.shields.io/badge/COMSOL%20Multiphysics-0C4A6E?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAB" alt="COMSOL" />
 </p>
 
-- **Fluides & Multi-physique :** Maîtrise proactive d'OpenFOAM pour la résolution d'écoulements fluides et de COMSOL Multiphysics pour les couplages physiques.
-- **Structures & Systèmes :** Utilisation de solveurs et pré/post-traitements industriels (Nastran/Patran, Abaqus) pour l'analyse non linéaire. Modélisation d'architectures fonctionnelles avec Capella (MBSE).
-- **CAO & Environnement :** FreeCAD, CATIA, Salome, Matlab, Maple, et calcul formel sous MapleSim.
+- **Fluids & Multiphysics:** Proactive mastery of OpenFOAM for solving fluid flows and COMSOL Multiphysics for physical couplings.
+- **Structures & Systems:** Use of industrial solvers and pre/post-processing tools (Nastran/Patran, Abaqus) for non-linear analysis. Functional architecture modeling with Capella (MBSE).
+- **CAD & Environment:** FreeCAD, CATIA, Salome, Matlab, Maple, and symbolic computation in MapleSim.
 
 ***
 
-## 🧠 Compétences CFD, FEA & Simulation Numérique
+## 🧠 CFD, FEA & Numerical Simulation Skills
 <p>
-  <img src="https://img.shields.io/badge/Méthode%20des%20Volumes%20Finis%20(FVM)-1D3557" alt="FVM" />
-  <img src="https://img.shields.io/badge/Méthode%20des%20Éléments%20Finis%20(FEM)-1D3557" alt="FEM" />
-  <img src="https://img.shields.io/badge/Maillage%20%2F%20Meshing-0C7C59" alt="Meshing" />
+  <img src="https://img.shields.io/badge/Finite%20Volume%20Method%20(FVM)-1D3557" alt="FVM" />
+  <img src="https://img.shields.io/badge/Finite%20Element%20Method%20(FEM)-1D3557" alt="FEM" />
+  <img src="https://img.shields.io/badge/Meshing-0C7C59" alt="Meshing" />
   <img src="https://img.shields.io/badge/Turbulence%20(RANS%2C%20LES)-0B3C5D" alt="Turbulence" />
 </p>
 
-- **Pré-traitement & Maillage :** Génération de maillages avec raffinement pariétal (Salome), définition rigoureuse des conditions aux limites et études de sensibilité de maillage.
-- **Physique & Modélisation Évoluée :** Écoulements compressibles/incompressibles, aérodynamique externe, et modélisation de la turbulence (RANS, $k-\omega$ SST). Analyse des instabilités d'Interaction Fluide-Structure (IFS) et dimensionnement linéaire/non linéaire des structures composites.
-- **Post-traitement Avancé :** Extraction de torseurs d'efforts, analyse de sillages, traitement de signaux par Transformation de Fourier Rapide (FFT) et réduction de modèles de données (POD/SVD).
+- **Pre-processing & Meshing:** Mesh generation with boundary layer refinement (Salome), rigorous definition of boundary conditions, and mesh sensitivity studies.
+- **Physics & Advanced Modeling:** Compressible/incompressible flows, external aerodynamics, and turbulence modeling (RANS, $k-\omega$ SST). Analysis of Fluid-Structure Interaction (FSI) instabilities and linear/non-linear sizing of composite structures.
+- **Advanced Post-processing:** Extraction of force torsors, wake analysis, signal processing via Fast Fourier Transform (FFT), and data model reduction (POD/SVD).
 
 ***
 
-## 🚀 Projets de Simulation
+## 🚀 Simulation Projects
 
-* **🏎️ Étude Aérodynamique d'un Aileron de F1 (Projet Personnel CFD — En cours)**
-    * Modélisation géométrique CAO sous FreeCAD d'un aileron avant multi-éléments.
-    * Génération et optimisation du maillage avec raffinement pariétal sous Salome.
-    * Lancement de calculs aérodynamiques RANS (modèle de turbulence $k-\omega$ SST) avec OpenFOAM, suivi d'une analyse quantitative des sillages et des torseurs d'efforts sous ParaView.
+* **🏎️ F1 Front Wing Aerodynamic Study (Personal CFD Project — In Progress)**
+    * CAD geometric modeling of a multi-element front wing using FreeCAD.
+    * Mesh generation and optimization with boundary layer refinement in Salome.
+    * Execution of RANS aerodynamic calculations ($k-\omega$ SST turbulence model) in OpenFOAM, followed by a quantitative analysis of wakes and force torsors in ParaView.
 
-* **⚙️ Analyse de Sensibilité de Maillage sur Plaque Percée (Projet Académique FEA)**
-    * Modélisation d'une plaque percée soumise à une sollicitation de traction sous COMSOL Multiphysics.
-    * Étude approfondie de l'influence de la finesse et de la topologie du maillage sur la capture des singularités de contraintes, validée analytiquement par la théorie de l'élasticité linéaire.
+* **⚙️ Mesh Sensitivity Analysis on a Holed Plate (Academic FEA Project)**
+    * Modeling of a holed plate under tensile stress using COMSOL Multiphysics.
+    * In-depth study of the influence of mesh refinement and topology on capturing stress singularities, analytically validated using linear elasticity theory.
 
-* **🚲 Modélisation Système d'un Vélo Électrique (Projet Académique MBSE)**
-    * Application de la démarche d'ingénierie système sur un cas industriel concret.
-    * Définition complète des exigences fonctionnelles et construction de l'architecture logique du système avec l'outil Capella.
+* **🚲 System Modeling of an Electric Bike (Academic MBSE Project)**
+    * Application of the systems engineering approach to a concrete industrial case.
+    * Comprehensive definition of functional requirements and construction of the logical system architecture using the Capella tool.
 
 ***
+
 ## 📫 Contact
-- **Email :** sbai.aimane01@gmail.com
+- **Email:** sbai.aimane01@gmail.com
