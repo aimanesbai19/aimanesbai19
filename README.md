@@ -55,7 +55,7 @@ Master's student in Modeling & Simulation in Mechanics and Energetics (MSME) at 
 
 ## 🚀 Simulation Projects
 
-* **🏎️ F1 Front Wing Aerodynamic Study (Personal CFD Project — In Progress)**
+* **🏎️ F1 Front Wing Aerodynamic Study (Personal CFD Project)**
     * CAD geometric modeling of a multi-element front wing using FreeCAD.
     * Mesh generation and optimization with boundary layer refinement in Salome.
     * Execution of RANS aerodynamic calculations ($k-\omega$ SST turbulence model) in OpenFOAM, followed by a quantitative analysis of wakes and force torsors in ParaView.
